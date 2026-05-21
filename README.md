@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is my Pramming Portfolio Page
+This is my programming Portfolio Page
 
 
 <!--
